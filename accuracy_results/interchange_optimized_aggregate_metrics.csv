@@ -1,0 +1,9 @@
+Metric,Value,Count,Total
+Value Presence Rate (VPR),99.6%,245,246
+Source Attribution Accuracy (SAA),99.2%,244,246
+Potential Hallucination Rate,0.4%,1,246
+Total Properties,309,,
+Verifiable Properties,246,,
+Visual-Only Properties,36,,
+NOT FOUND Properties,27,,
+Sheets Evaluated,29,,
